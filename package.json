@@ -1,0 +1,24 @@
+{
+  "name": "awesome-electron-pdf-viewer",
+  "version": "1.0.0",
+  "description": "A Awesome Electron Pdf Viewer Using PDFTron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "",
+  "keywords": [
+    "Electron",
+    "PDF"
+  ],
+  "author": "fpjunqueira",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^4.1.1"
+  },
+  "build": {
+    "extraResources": [
+      "./public/**"
+    ]
+  }
+}
