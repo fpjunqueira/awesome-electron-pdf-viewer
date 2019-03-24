@@ -1,3 +1,5 @@
 # Awesome Electron Pdf Viewer
 
-## Use `npm install && npm start` to build and run it.
+In the project directory, you can build and run:
+
+### `npm install && npm start` 
